@@ -11,7 +11,7 @@ File Storage feature
 
 Installation: 
 
-git clone https://github.com/Chris-Wilder/SchemeMulti.git
+git clone https://github.com/tfchr1s/SchemeCollabClassroom.git
 
 In terminal: cd .\SchemeMulti\
 
