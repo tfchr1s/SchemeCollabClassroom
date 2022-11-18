@@ -13,7 +13,7 @@ Installation:
 
 git clone https://github.com/tfchr1s/SchemeCollabClassroom.git
 
-In terminal: cd .\SchemeMulti\
+In terminal: cd .\SchemeCollabClassroom\
 
 In terminal: npm i react react-hooks firebase firebase-react firebase-react-hooks uuid
 
