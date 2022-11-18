@@ -9,6 +9,10 @@ Google Authentication
 Multiple Chatrooms
 File Storage feature
 
+Code Built on Visual Studio Code Using:
+
+React, JavaScript, HTML, CSS
+
 Installation: 
 
 git clone https://github.com/tfchr1s/SchemeCollabClassroom.git
