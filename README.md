@@ -10,14 +10,24 @@ Multiple Chatrooms
 File Storage feature
 
 Installation: 
+
 git clone https://github.com/Chris-Wilder/SchemeMulti.git
+
 In terminal: cd .\SchemeMulti\
+
 In terminal: npm i react react-hooks firebase firebase-react firebase-react-hooks uuid
+
 In terminal: npm install
+
 In terminal: npm start
 
+
 Contributions: 
+
 Chris Wilder
+
 Chris Hernandez
+
 Brian Luong
+
 Jawwad Qureshi
